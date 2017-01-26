@@ -7,8 +7,6 @@ googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
-publishDir = "../wangweiqi15.github.io"
-
 [permalinks]
     post = "/:year/:month/:day/:slug/"
 
@@ -35,3 +33,4 @@ publishDir = "../wangweiqi15.github.io"
     width = 50
     height = 50
     alt = "Logo"
+
